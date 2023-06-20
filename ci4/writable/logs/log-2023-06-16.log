@@ -1,0 +1,18 @@
+CRITICAL - 2023-06-16 01:09:40 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Lab10Web\ci4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Lab10Web\ci4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Lab10Web\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Lab10Web\ci4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2023-06-16 01:09:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Lab10Web\ci4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Lab10Web\ci4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Lab10Web\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Lab10Web\ci4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2023-06-16 02:19:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Lab10Web\ci4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Lab10Web\ci4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Lab10Web\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Lab10Web\ci4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
